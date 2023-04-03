@@ -6,5 +6,6 @@
 - 👨‍💻 博客：正在加班加点建设中敬请期待......
 
 ## 🔧 技术&工具
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+![](https://img.shields.io/badge/服务器-Nginx-informational?style=flat&logo=NGINX
                                                                               

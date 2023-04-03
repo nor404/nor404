@@ -9,7 +9,7 @@
 
 ## 🔧 技术&工具
 
-![image](https://user-images.githubusercontent.com/109648007/229574177-25f252ad-0c83-4989-a91f-0e2929abe724.png)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend">
 
  ![](https://img.shields.io/badge/编辑器-intellij IDEA-informational?style=flat&logo=IntelliJ IDEA&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/编辑器-Vscode-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=red)

@@ -10,7 +10,8 @@
 ## 🔧 技术&工具
 
 
-![](https://img.shields.io/badge/编辑器-intellij IDEA-informational?style=flat&logo=IntelliJ IDEA&logoColor=white&color=blue)、![](https://img.shields.io/badge/编辑器-Vscode-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=red)
+ ![](https://img.shields.io/badge/编辑器-intellij IDEA-informational?style=flat&logo=IntelliJ IDEA&logoColor=white&color=blue)
+ ![](https://img.shields.io/badge/编辑器-Vscode-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=red)
  
  ![](https://img.shields.io/badge/数据库-Nginx-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
  

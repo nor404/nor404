@@ -10,6 +10,4 @@
 ## 🔧 技术&工具
 
 
-<img src="https://img.shields.io/static/v1?label=编辑器&message=intellij IDEA IDEA&logo=IntelliJ IDEA&color=blue"/>
-
-![](https://img.shields.io/badge/-Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
+<img src="https://img.shields.io/static/v1?label=编辑器&message=intellij IDEA IDEA&logo=IntelliJ IDEA&color=blue"/> ![](https://img.shields.io/badge/-Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=blue)

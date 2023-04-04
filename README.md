@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/编辑器-Vscode-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=red)
 ![MySQL](https://img.shields.io/badge/数据库-Nginx-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
-![](https://img.shields.io/badge/数据库-Redis-informational?style=flat&logo=Redis&logoColor=white&color=red)
+![](https://img.shields.io/badge/-Redis-informational?style=flat&logo=Redis&logoColor=white&color=red)
 ![](https://img.shields.io/badge/数据库-Jetty-informational?style=flat&logo=Eclipse Jetty&logoColor=white&color=red)
 ![](https://img.shields.io/badge/服务器-Nginx-informational?style=flat&logo=NGINX&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/服务器-Tomcat-informational?style=flat&logo=Apache Tomcat&logoColor=white&color=2bbc8a)

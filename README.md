@@ -1,7 +1,7 @@
 # KT猫 🐱
 
 
-- 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">Api接口平台</a>、<a href="https://github.com/liyupi/code-nav" target="_blank">SDK工具包</a>、<a href="https://github.com/liyupi/code-nav" target="_blank">客户端测试平台</a>
+- 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">Api接口平台</a>、<a href="[https://github.com/liyupi/code-nav](https://github.com/nor404/kmapi-client-sdk/tree/master)" target="_blank">SDK工具包</a>、<a href="https://github.com/liyupi/code-nav" target="_blank">客户端测试平台</a>
 
 - 👨‍💻 经历：19线 Java程序猿、后端开发、项目云部署
 

@@ -8,8 +8,8 @@
 - 🤔💻 博客：正在加班加点建设中敬请期待......
 
 ## 🔧 技术&工具
+•
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nor404&include_all_commits=true&count_private-true&custom_title=nor404'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-
 ![IntelliJ IDEA](https://img.shields.io/badge/-intellij IDEA--informational?style=flat&logo=IntelliJ IDEA&logoColor=white&color=blue)
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/编辑器-Vscode-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=red)

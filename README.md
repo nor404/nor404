@@ -20,3 +20,11 @@
 <img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=GitHub&logoColor=white&color=A9A9A9"/> <img src="https://img.shields.io/badge/-Gitee-informational?style=flat&logo=Gitee&logoColor=white&color=red"/>
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=CentOS&logoColor=white&color=red"/>
 <img src="https://img.shields.io/badge/-Maven-informational?style=flat&logo=Apache Maven&logoColor=white&color=blue"/> <img src="https://img.shields.io/badge/-Photoshop-informational?style=flat&logo=Adobe Photoshop&logoColor=white&color=blue"/> ![](https://img.shields.io/badge/-Json-informational?style=flat&logo=JSON&logoColor=white&color=blue)
+
+
+### 🏬 仓库
+
+
+![](https://github-readme-stats.vercel.app/api?username=nor404&show_icons=true&theme=transparent)
+ #### 🚶 访客
+![Visitor Count](https://profile-counter.glitch.me/nor404/count.svg)

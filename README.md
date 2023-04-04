@@ -11,6 +11,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nor404&include_all_commits=true&count_private-true&custom_title=nor404'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-intellij IDEA--192133?style=flat&logo=IntelliJ IDEA&logoColor=white&color=blue)
+![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/编辑器-Vscode-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=red)
 ![MySQL](https://img.shields.io/badge/数据库-Nginx-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/数据库-Redis-informational?style=flat&logo=Redis&logoColor=white&color=red)

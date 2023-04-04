@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/-Jetty-informational?style=flat&logo=Eclipse Jetty&logoColor=white&color=red)"/>
 ![](https://img.shields.io/badge/-Nginx-informational?style=flat&logo=NGINX&logoColor=white&color=2bbc8a) 
 <img src="https://img.shields.io/badge/-Tomcat-informational?style=flat&logo=Apache Tomcat&logoColor=white&color=2bbc8a"/>
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=openjdk&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=Docker&logoColor=white&color=blue) ![](https://img.shields.io/badge/-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a) 
 <img src="https://img.shields.io/badge/-Spring Boot-informational?style=flat&logo=Spring Boot&logoColor=white&color=2bbc8a"/>

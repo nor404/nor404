@@ -23,8 +23,6 @@
 
 
 ### 🏬 仓库
-
-
-![](https://github-readme-stats.vercel.app/api?username=nor404&show_icons=true&theme=transparent)
- #### 🚶 访客
-![Visitor Count](https://profile-counter.glitch.me/nor404/count.svg)
+---
+#### 🚶🚶🚶您是我的第![Visitor Count](https://profile-counter.glitch.me/nor404/count.svg)位访客 
+![](https://github-readme-stats.vercel.app/api?username=nor404&show_icons=true&theme=transparent) 

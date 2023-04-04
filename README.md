@@ -10,7 +10,7 @@
 ## 🔧 技术&工具
 
 
-<img src="https://img.shields.io/static/v1?label=编辑器&message=intellij IDEA IDEA&logo=IntelliJ IDEA&color=blue"/> ![](https://img.shields.io/badge/-Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=blue) ![](https://img.shields.io/badge/-Redis-informational?style=flat&logo=Redis&logoColor=white&color=red) ![](https://img.shields.io/badge/-Jetty-informational?style=flat&logo=Eclipse Jetty&logoColor=white&color=red) ![](https://img.shields.io/badge/-Nginx-informational?style=flat&logo=NGINX&logoColor=white&color=2bbc8a) 
-<img src="https://img.shields.io/static/v1?label=Tomcat&message=Tomcat&logo=Apache Tomcat&color=blue"/>
-![](https://img.shields.io/badge/java-8.0-brightgreen)
+<img src="https://img.shields.io/static/v1?label=编辑器&message=intellij IDEA IDEA&logo=IntelliJ IDEA&color=blue"/> ![](https://img.shields.io/badge/-Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=blue) ![](https://img.shields.io/badge/-Redis-informational?style=flat&logo=Redis&logoColor=white&color=red) ![](https://img.shields.io/badge/-Jetty-informational?style=flat&logo=Eclipse Jetty&logoColor=white&color=red) 
+![](https://img.shields.io/badge/-Nginx-informational?style=flat&logo=NGINX&logoColor=white&color=2bbc8a) 
+<img src="https://img.shields.io/static/v1?label=Tomcat&message=Tomcat&logoColor=white&logo=Apache Tomcat&color=blue"/>
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

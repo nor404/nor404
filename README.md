@@ -9,6 +9,12 @@
 
 ## 🔧 技术&工具
 •
+
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<a href="你的CSDN主页链接"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+</p>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nor404&include_all_commits=true&count_private-true&custom_title=nor404'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
 ![](https://img.shields.io/badge/-intellij IDEA--informational?style=flat&logo=IntelliJ_IDEA&logoColor=white&color=blue)

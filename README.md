@@ -10,9 +10,7 @@
 ## 🔧 技术&工具
 
 
-<img src="https://img.shields.io/static/v1?label=编辑器&message=intellij IDEA IDEA&logo=IntelliJ IDEA&color=blue"/> 
-![](https://img.shields.io/badge/-Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=blue) 
-![](https://img.shields.io/badge/-Redis-informational?style=flat&logo=Redis&logoColor=white&color=red)
+<img src="https://img.shields.io/static/v1?label=编辑器&message=intellij IDEA IDEA&logo=IntelliJ IDEA&color=blue"/>  ![](https://img.shields.io/badge/-Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=blue) ![](https://img.shields.io/badge/-Redis-informational?style=flat&logo=Redis&logoColor=white&color=red)
 <img src="https://img.shields.io/badge/-Jetty-informational?style=flat&logo=Eclipse Jetty&logoColor=white&color=red)"/>
 ![](https://img.shields.io/badge/-Nginx-informational?style=flat&logo=NGINX&logoColor=white&color=2bbc8a) 
 <img src="https://img.shields.io/badge/-Tomcat-informational?style=flat&logo=Apache Tomcat&logoColor=white&color=2bbc8a"/>
